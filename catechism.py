@@ -68,7 +68,7 @@ for question in questions:
     # check if the user's answer is correct
     if options[index] == correct_answer:
         print("Correct!")
-        score += 1
+        score = score + 1
     else:
         print("Incorrect!")
         print(new_line)
