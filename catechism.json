@@ -49,11 +49,6 @@
         "question": "Where is God?",
         "options": ["USA", "God is everywhere", "Mexico", "Canada"],
         "answer": "God is everywhere"
-      },
-      {
-        "question": "Can you see God?",
-        "options": ["Yes, I can see God in nature.", "Yes, I see God in the mirror", "It Depends who you ask", "No. I cannot see God, but he always sees me"],
-        "answer": "No. I cannot see God, but he always sees me"
       }
     ]
   }

@@ -39,6 +39,8 @@ print(welcome_message)
 print(new_line)
 print("You will be asked " + str(total_questions) + " questions (multiple choice). Each question has 4 options. Type the number of the option you think is correct. You will be given 1 point for each correct answer.")
 print(new_line)
+input("Please ENTER to begin!")
+print(new_line)
 
 # loop through the questions
 for question in questions:
