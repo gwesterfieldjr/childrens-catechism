@@ -92,7 +92,7 @@ questions.append("How can you glorify God?")
 print(questions[3])
 
 catechism = {
-    "Who made you?": "God", 
+    "Who made you?": "God",
     "What else did God make?": "All things",
     "Why did God make you and all things?": "For his glory"
 }
